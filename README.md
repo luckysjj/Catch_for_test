@@ -5,6 +5,6 @@ git submodule add https://github.com/catchorg/Catch2.git Catch2
 
 ## Steps
 
-### mkdir build
-### cd build && cmake .. && make
-### ./tests
+mkdir build
+cd build && cmake .. && make
+./tests
